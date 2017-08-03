@@ -1,4 +1,4 @@
-###Types of Doubles
+### Types of Doubles
 
 | Type  | Characteristics | Use |
 |-------|-----------------|-----|
